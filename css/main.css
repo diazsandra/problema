@@ -138,5 +138,9 @@ footer {
 	height: 2.5em;
 	border: solid 1px;
 	padding: 2%;
+	margin: 3%;
+}
 
+.mgt0 {
+	margin-right: -5%;
 }
