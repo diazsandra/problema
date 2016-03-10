@@ -20,9 +20,9 @@
 }
 
 #bgt3 {
-	background-color: rgba(51, 122, 183, 0.3) !important;
+	background-color: rgba(51, 122, 183, 0.7) !important;
 	color: white;
-	margin-bottom: -1%;
+	
 }
 
 .white2 {
@@ -118,4 +118,25 @@
 	margin: 0;
 }
 
+.fs3 {
+	margin: 0;
+	font-size: 2.7em;
+}
 
+.bannerimg {
+	width: 100%;
+}
+
+footer {
+	padding: 5%;
+	color: white;
+	background-color: #11293D;
+}
+
+.fbtw {
+	width: 2.5em;
+	height: 2.5em;
+	border: solid 1px;
+	padding: 2%;
+
+}
