@@ -128,14 +128,14 @@
 }
 
 footer {
-	padding: 5%;
+	padding: 2%;
 	color: white;
 	background-color: #11293D;
 }
 
 .fbtw {
-	width: 2.5em;
-	height: 2.5em;
+	width: 3em;
+	height: 3em;
 	border: solid 1px;
 	padding: 2%;
 	margin: 3%;
@@ -143,4 +143,51 @@ footer {
 
 .mgt0 {
 	margin-right: -5%;
+}
+
+
+
+
+/* CONTACTO */ 
+
+
+#hdr1 {
+	background-image: url("../image/large.jpg");
+	background-repeat:repeat;
+	height: 750px;
+	background-size: cover;
+}
+
+#bgt1 {
+	background-color: rgba(0, 0, 0, .3);
+	height: 100%;
+
+}
+
+form {
+	background-color: rgba(250, 250, 250, .8);
+	width: 50%;
+	height: 40%;
+	margin: 10% 25%;
+	padding: 2%;
+	border-top: 5px solid #5bc0de;
+}
+
+.titleform {
+	border-bottom: solid 1px black;
+}
+
+textarea {
+	width: 100%;
+	min-height: 100px;
+	max-height: 200px;
+	max-width: 100%;
+}
+
+.txtnone {
+	text-decoration: none;
+}
+
+.mgl15 {
+	float: right;
 }
